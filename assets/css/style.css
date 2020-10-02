@@ -578,6 +578,16 @@ section {
   overflow: hidden;
 }
 
+.botao-conhecer {
+  background:    #0000ff;
+  border-radius: 1000px;
+  padding:       5px 20px;
+  color:         #ffffff;
+  display:       inline-block;
+  font:          normal medium 22px/1 "Open Sans", sans-serif;
+  text-align:    center;
+  }
+
 .section-bg {
   background-color: #f6f9fe;
 }
