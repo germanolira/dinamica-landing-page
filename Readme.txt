@@ -1,1 +1,1 @@
-# Dinamica Landing Page
+Dinamica Landing Page
